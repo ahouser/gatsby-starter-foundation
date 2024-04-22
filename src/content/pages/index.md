@@ -15,6 +15,8 @@ I graduated with a Bachelor of Science in Business Administration with an additi
 
 My current website is found here. There you can find my portfolio, resume, and contact form. I look forward to hearing from you soon.
 
+We first did this in 2024.
+
 Here is another paragraph that I think is really important.
 
 What I Do?
@@ -30,3 +32,4 @@ What Industries do I cover?
 1. HR
 2. Technology
 3. Publishing
+3. Artificial Intelligence
